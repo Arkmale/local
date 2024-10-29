@@ -11,14 +11,10 @@
             "id": "83b380276d24143f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Я тут что то сделалЪ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Я тут что то сделалЪ"
+              "title": "Новая вкладка"
             }
           }
         ]
